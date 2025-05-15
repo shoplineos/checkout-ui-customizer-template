@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "lib": ["WebWorker"],
+    "jsx": "react"
+  },
+  "include": ["src", "node_modules/@shoplineos/checkout-ui-customizer-sandbox-types"]
+}
